@@ -12,3 +12,10 @@ Prerequisites
 * At least 1 year of national (military) higher education.
 * At least a basic programming course.
 * Basic knowledge in technical systems for security and defence
+
+References
+* Brian Kernighan, Dennis Ritchie. The C programming language. Prentice Hall Software Series
+  Internet: http://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
+* Al Sweigart. Automate the boring stuff with Python. Practical programming for total beginners. No starch press. Internet: https://automatetheboringstuff.com/#toc
+* Valgrind documentation. Internet: https://valgrind.org/docs/download_docs.html
+
