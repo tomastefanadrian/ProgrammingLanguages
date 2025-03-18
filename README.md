@@ -3,7 +3,7 @@ Repository for the Programming Languages course, part of the European Common Tec
 
 Goals of the course
 * Discover and understand the key concepts of the C programming language
-* Learn concepts and constructions across several programming languages (C, C++, Python)
+* Learn concepts and constructions across several programming languages (C, Python)
 * Computer based problem-solving methods
 
 
